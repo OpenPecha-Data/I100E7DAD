@@ -1,0 +1,26 @@
+id: I100E7DAD
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-04
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་བཞི་པ།
+  author: མཛད་པ་པོ། ཆོས་རྒྱལ་དྭགས་པོ་ལྷ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། ཆོས་རྒྱལ་དྭགས་པོ་ལྷ་རྗེ།
+  sku: RDI-KK-04
+  cover: Cover.jpeg
+  volume: {}
+ebook_metadata:
+  title: དྭགས་བརྒྱུད་སྒྲུབ་པའི་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་བཞི་པ།
+  authors: *id001
+  sku: RDI-KK-04
+  cover: Cover.jpeg
+layers:
+- Author
+- BookNumber
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
